@@ -68,14 +68,3 @@ The plot below illustrates how scores are distributed across predefined buckets.
 
 ---
 
-## 📌 Next Steps
-
-- Explore clustering or ML classification to complement rule-based scoring.
-- Add timestamps to analysis for time-windowed trends (e.g., recent risky behavior).
-- Merge on-chain credit score with social or trust-based metrics for composability.
-
----
-
-🧾 This file supports the scoring logic and outcomes used in the `wallet_credit_scores.json`.
-
-Built for transparency and extensibility in DeFi risk modeling.
